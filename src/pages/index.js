@@ -37,7 +37,7 @@ export default function Home({ products }) {
 
   return (
     <div>
-       <Header />
+      
       <ProductGrid products={products} onAddToCart={handleAddToCart} />
       {/* <h2>Cart Summary</h2> */}
       <ul>
@@ -47,7 +47,7 @@ export default function Home({ products }) {
           </li>
         ))}
       </ul>
-      <Footer />
+   
     </div>
   );
 }
