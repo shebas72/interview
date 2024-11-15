@@ -1,0 +1,14 @@
+.header {
+    background-color: #0070f3;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header p {
+    font-size: 1rem;
+    margin-top: 5px;
+  }

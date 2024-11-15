@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "image": "/images/productall.jpg",
+      "price": 78,
+      "category": "Electronics",
+      "stock": 11
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "image": "/images/productall.jpg",
+      "price": 96,
+      "category": "Books",
+      "stock": 22
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "image": "/images/productall.jpg",
+      "price": 54,
+      "category": "Home",
+      "stock": 33
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "image": "/images/productall.jpg",
+        "price": 43,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 5,
+        "name": "Product 5",
+        "image": "/images/productall.jpg",
+        "price": 32,
+        "category": "Home",
+        "stock": 44
+      },
+      {
+        "id": 6,
+        "name": "Product 6",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 7,
+        "name": "Product 7",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 8,
+        "name": "Product 8",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 9,
+        "name": "Product 9",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 10,
+        "name": "Product 10",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 11,
+        "name": "Product 11",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 12,
+        "name": "Product 12",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 13,
+        "name": "Product 16",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 14,
+        "name": "Product 14",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 15,
+        "name": "Product 15",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 16,
+        "name": "Product 16",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 17,
+        "name": "Product 17",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 18,
+        "name": "Product 18",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 19,
+        "name": "Product 19",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      },
+      {
+        "id": 20,
+        "name": "Product 20",
+        "image": "/images/productall.jpg",
+        "price": 15.99,
+        "category": "Home",
+        "stock": 10
+      }
+  ]
